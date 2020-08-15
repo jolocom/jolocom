@@ -46,3 +46,6 @@ You could write blog posts related to Jolocom. Possible topics include:
 - a deep dive into some specific aspect of Jolocom
 - a blog post about a particular component in the Jolocom stack
 - here you can contribute to our [main documentation site](https://jolocom-lib.readthedocs.io/en/latest/introduction.html)
+
+### Contributor Code of Conduct
+[Be excellent to each other.](https://github.com/jolocom/jolocom/blob/master/code-of-conduct)
