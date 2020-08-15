@@ -7,7 +7,7 @@ How to make sure your code contributions can be included in the [jolocom-lib](ht
 ## Jolocom Software Licensing
 
 The Jolocom repositories jolocom-lib and jolocom-sdk are licensed under an [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html). This page describes the Jolocom policy to ensure that all contributions to the jolocom-lib and jolocom-sdk code are also licensed under the Apache 2.0 license (and that the contributor has the right to license it as such).
-- All contributions to Jolocom are governed by our [Contributor Code of Conduct](https://github.com/jolocom/jolocom/blob/master/code-of-conduct).
+- All contributions to Jolocom are also governed by our [Contributor Code of Conduct](https://github.com/jolocom/jolocom/blob/master/code-of-conduct).
 
 If you are:
 
