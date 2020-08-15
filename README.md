@@ -24,6 +24,8 @@ For a general introduction to Jolocom, take a look at our [whitepaper](http://jo
 
 - Ask technical questions in the [jolocom-gitter](https://gitter.im/jolocom/SmartWallet)
 
+- All contributions to Jolocom are governed by our [Contributor Code of Conduct](https://github.com/jolocom/jolocom/blob/master/code-of-conduct).
+
 ### Report a Vulnerability
 
 What to do if you find a security flaw in Jolocom?
