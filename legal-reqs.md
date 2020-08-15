@@ -1,6 +1,7 @@
+# Legal Requirements when Contributing Code to Jolocom
+
 ---
-title: Legal Requirements when Contributing Code
-description: How to make sure your code contributions can be included in the jolocom-lib and jolocom-sdk codebases.
+How to make sure your code contributions can be included in the jolocom-lib and jolocom-sdk codebases.
 ---
 
 ## Jolocom Software Licensing
