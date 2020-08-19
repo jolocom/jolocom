@@ -20,7 +20,7 @@ For a general introduction to Jolocom, take a look at our [whitepaper](http://jo
 
 ## Contributing
 
-- **[Help Develop Jolocom Software](https://github.com/jolocom/jolocom/blob/master/legal-reqs.md)**
+- **[Help Develop Jolocom Software](https://github.com/jolocom/jolocom/blob/master/CONTRIBUTING.md)**
 
 - Ask technical questions in the [jolocom-gitter](https://gitter.im/jolocom/SmartWallet)
 
