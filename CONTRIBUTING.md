@@ -2,7 +2,8 @@
 By contributing to any discussion, code, issues, pull requests, or other forms of contribution to this repository and in all other Jolocom mediums where discussion, development, and collaboration on its contents are taking place, your contributions are bound by Jolocom's standard license and attribution selections, as detailed below:
 
 ---
-How to make sure your contributions can be included in the [jolocom-sdk](https://github.com/jolocom/jolocom-sdk), [jolocom-lib](https://github.com/jolocom/jolocom-lib) and [jolocom-keriox](https://github.com/jolocom/keriox) or any other Jolocom codebases:
+How to make sure your contributions can be included in the [jolocom-sdk](https://github.com/jolocom/jolocom-sdk), [jolocom-lib](https://github.com/jolocom/jolocom-lib) and [jolocom-keriox](https://github.com/jolocom/keriox) or any other Jolocom codebase:
+
 ---
 ## Documentation Copyright Policy
 
