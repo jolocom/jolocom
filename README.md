@@ -16,7 +16,7 @@ For a general introduction to Jolocom, take a look at our [whitepaper](http://jo
 ## Running Jolocom
 
 - [jolocom-lib](https://jolocom-lib.readthedocs.io/en/latest/introduction.html)
-- [jolocom-sdk] here soon
+- [jolocom-sdk](https://github.com/jolocom/jolocom-sdk)
 
 ## Contributing
 
