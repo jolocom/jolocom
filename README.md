@@ -1,26 +1,28 @@
-<h1 align="center"><a href="https://jolocom.io" target="_blank">Jolocom</a>: A Decentralized Identity Solution</h1>
+# jolocom
+
+<h1 align="center">Jolocom: A Decentralized Identity Solution</h1>
+
+> Jolocom
+> [jolocom.io](https://jolocom.io)
 
 ## Introduction
 
-This repository serves as a place for high-level information about the Jolocom ecosystem. Visit our website at https://jolocom.io for announcements, events, blog posts, etc
+This repository serves as a place for high-level information about Jolocom.
 
-For a general introduction to the Jolocom protocol, take a look at our [whitepaper v2.1](http://jolocom.io/wp-content/uploads/2019/12/Jolocom-Whitepaper-v2.1-A-Decentralized-Open-Source-Solution-for-Digital-Identity-and-Access-Management.pdf) (currently slightly outdated, we are working on it!)
+## Documentation
 
-## Code and Documentation
-- [Jolocom SmartWallet](https://github.com/jolocom/smartwallet-app)
+For a general introduction to Jolocom, take a look at our [whitepaper](http://jolocom.io/wp-content/uploads/2018/07/Jolocom-Technical-WP-_-Self-Sovereign-and-Decentralised-Identity-By-Design-2018-03-09.pdf) (it is currently outdated, and we are working on updating it).
+
+## Running Jolocom
+
+- [jolocom-lib](https://jolocom-lib.readthedocs.io/en/latest/introduction.html)
 - [jolocom-sdk](https://github.com/jolocom/jolocom-sdk)
-    - Guides: https://jolocom.github.io/jolocom-sdk/
-    - API: https://jolocom.github.io/jolocom-sdk/1.0.0/api/
-- [jolocom-lib](https://github.com/jolocom/jolocom-sdk)
-    - Guides: https://jolocom-lib.readthedocs.io/en/latest/
 
 ## Contributing
 
 - **[Help Develop Jolocom Software](https://github.com/jolocom/jolocom/blob/master/CONTRIBUTING.md)**
 
-- Ask technical questions in the Jolocom gitter channels
-    - SmartWallet: https://gitter.im/jolocom/SmartWallet
-    - SDK: https://gitter.im/jolocom/jolocom-sdk
+- Ask technical questions in the [jolocom-gitter](https://gitter.im/jolocom/SmartWallet)
 
 ### Report a Vulnerability
 
